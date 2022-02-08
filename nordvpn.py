@@ -1,6 +1,5 @@
 from nordvpn_connect import *
 import os
-from datetime import datetime as dt
 import socket
 
 # Switzerland numero uno
